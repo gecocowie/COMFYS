@@ -1,0 +1,10 @@
+init
+boost 5.0e4 0.0 -3.0e3 0.0
+
+launchlander 6.0e5 0.0 4.6e3 0.0
+
+parachute 6.5e5 35
+
+picture 9.4e5 1.5 -3.142 0.0 0.0 1.0
+
+landing 1.0e6 30 3.0e4
